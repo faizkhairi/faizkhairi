@@ -10,9 +10,9 @@ I build scalable web and mobile applications — from frontend UI to backend sys
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| [AI Code Reviewer](https://github.com/faizkhairi/ai-code-reviewer) | Multi-provider AI code review with streaming output | Next.js, Vercel AI SDK, OpenAI, Claude | [Live](https://ai-code-reviewer.vercel.app) |
-| [Short URL](https://github.com/faizkhairi/short-url) | URL shortener with click analytics dashboard | Next.js, Prisma 7, Neon PostgreSQL, Recharts | [Live](https://short-url-demo.vercel.app) |
-| [Repo Insights](https://github.com/faizkhairi/repo-insights) | GitHub repo visualization — commits, languages, contributors | Next.js, SWR, Recharts, Auth.js | [Live](https://repo-insights.vercel.app) |
+| [AI Code Reviewer](https://github.com/faizkhairi/ai-code-reviewer) | Multi-provider AI code review with streaming output | Next.js, Vercel AI SDK, OpenAI, Claude | [Live](https://ai-code-reviewer-two-pi.vercel.app) |
+| [Short URL](https://github.com/faizkhairi/short-url) | URL shortener with click analytics dashboard | Next.js, Prisma 7, Neon PostgreSQL, Recharts | [Live](https://short-url-livid-six.vercel.app) |
+| [Repo Insights](https://github.com/faizkhairi/repo-insights) | GitHub repo visualization — commits, languages, contributors | Next.js, SWR, Recharts, Auth.js | [Live](https://repo-insights-mu.vercel.app) |
 | [Recipe Explorer](https://github.com/faizkhairi/recipe-explorer) | Recipe browsing with search and favorites | Next.js, React Query, Tailwind CSS | [Live](https://recipe-explorer-five.vercel.app) |
 
 ### Developer Tools (CLI)
@@ -22,7 +22,9 @@ I build scalable web and mobile applications — from frontend UI to backend sys
 | [loadtest-cli](https://github.com/faizkhairi/loadtest-cli) | API load testing with latency percentiles and HTML reports | `npm i -g @faizkhairi/loadtest-cli` |
 | [migra-cli](https://github.com/faizkhairi/migra-cli) | Database migration management with rollback and safety checks | `npm i -g @faizkhairi/migra-cli` |
 
-### Production Boilerplates
+### Personal Boilerplates
+
+Production-ready starter templates showcasing my expertise across modern frameworks and full-stack architectures.
 
 | Template | Stack | Use Case |
 |----------|-------|----------|
