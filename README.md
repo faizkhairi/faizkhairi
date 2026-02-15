@@ -10,7 +10,7 @@ Currently building enterprise software at scale:
 
 - **Microservices platform** — Designed and developed a 10-service architecture handling 500+ pages, 134 API modules, and 50+ database models for a government-linked organization
 - **Enterprise integration hub** — Built a plugin-based platform connecting 9 external systems across 49 integration types with bidirectional data sync, job orchestration, and encrypted credential storage
-- **Workflow engine** — Created a visual BPMN process and form builder with drag-and-drop design, conditional logic, and multi-step workflow automation
+- **Multi-step workflow system** — Developed dynamic workflow engines with token passing, state management, and multi-page process flows for complex business operations
 - **DevOps infrastructure** — Architected multi-environment CI/CD pipelines (DEV/STG/PRD) on AWS with Docker containerization, automated deployments, and Nginx reverse proxy across 8 services
 
 ## Tech Stack
