@@ -4,6 +4,27 @@
 
 I build scalable web and mobile applications — from frontend UI to backend systems, enterprise integrations, and cloud infrastructure.
 
+## What I Work On
+
+Currently building enterprise software at scale:
+
+- **Microservices platform** — 10-service architecture handling 500+ pages, 134 API modules, and 50+ database models
+- **Enterprise integration hub** — Plugin-based platform connecting 9 external systems across 49 integration types
+- **Multi-step workflow system** — Dynamic workflow engines with token passing and state management
+- **DevOps infrastructure** — Multi-environment CI/CD pipelines (DEV/STG/PRD) on AWS with Docker
+
+## Tech Stack
+
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | Vue 3, React, Next.js, Nuxt, Inertia.js, Tailwind CSS, Shadcn |
+| **Mobile** | React Native (Expo), NativeWind |
+| **Backend** | NestJS, Laravel (PHP), Spring Boot (Java), Node.js |
+| **Database** | PostgreSQL, MySQL/MariaDB, Prisma ORM, JPA/Hibernate, Flyway |
+| **AI** | OpenAI GPT-4o, Claude Sonnet, Vercel AI SDK |
+| **Cloud & DevOps** | AWS (EC2, ECR, S3), Docker, Nginx, GitHub Actions |
+| **Testing** | Vitest, Playwright, JUnit 5, PHPUnit, Jest |
+
 ## Featured Projects
 
 ### Web Applications
@@ -39,27 +60,6 @@ Production-ready starter templates showcasing my expertise across modern framewo
 | Project | Description |
 |---------|-------------|
 | [microservices-demo](https://github.com/faizkhairi/microservices-demo) | Docker Compose microservices architecture |
-
-## What I Work On
-
-Currently building enterprise software at scale:
-
-- **Microservices platform** — 10-service architecture handling 500+ pages, 134 API modules, and 50+ database models
-- **Enterprise integration hub** — Plugin-based platform connecting 9 external systems across 49 integration types
-- **Multi-step workflow system** — Dynamic workflow engines with token passing and state management
-- **DevOps infrastructure** — Multi-environment CI/CD pipelines (DEV/STG/PRD) on AWS with Docker
-
-## Tech Stack
-
-| Layer | Technologies |
-|-------|-------------|
-| **Frontend** | Vue 3, React, Next.js, Nuxt, Inertia.js, Tailwind CSS, Shadcn |
-| **Mobile** | React Native (Expo), NativeWind |
-| **Backend** | NestJS, Laravel (PHP), Spring Boot (Java), Node.js |
-| **Database** | PostgreSQL, MySQL/MariaDB, Prisma ORM, JPA/Hibernate, Flyway |
-| **AI** | OpenAI GPT-4o, Claude Sonnet, Vercel AI SDK |
-| **Cloud & DevOps** | AWS (EC2, ECR, S3), Docker, Nginx, GitHub Actions |
-| **Testing** | Vitest, Playwright, JUnit 5, PHPUnit, Jest |
 
 ## Get In Touch
 
