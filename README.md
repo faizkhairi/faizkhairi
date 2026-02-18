@@ -8,7 +8,7 @@ I build scalable web and mobile applications — from frontend UI to backend sys
 
 Currently building enterprise software at scale:
 
-- **Microservices platform** — 7-service architecture handling 200+ pages with enterprise-grade CI/CD
+- **Microservices platform** — 7-service architecture handling 500+ pages, 130+ API modules, and 300+ database models
 - **Enterprise integration hub** — Plugin-based platform connecting 9 external systems across 49 integration types
 - **Multi-step workflow system** — Dynamic workflow engines with token passing and state management
 - **DevOps infrastructure** — Multi-environment CI/CD pipelines (DEV/STG/PRD) on AWS with Docker
