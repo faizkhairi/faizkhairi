@@ -8,7 +8,7 @@ I build scalable web and mobile applications — from frontend UI to backend sys
 
 Currently building enterprise software at scale:
 
-- **Microservices platform** — 10-service architecture handling 500+ pages, 134 API modules, and 50+ database models
+- **Microservices platform** — 7-service architecture handling 200+ pages with enterprise-grade CI/CD
 - **Enterprise integration hub** — Plugin-based platform connecting 9 external systems across 49 integration types
 - **Multi-step workflow system** — Dynamic workflow engines with token passing and state management
 - **DevOps infrastructure** — Multi-environment CI/CD pipelines (DEV/STG/PRD) on AWS with Docker
@@ -63,6 +63,6 @@ Production-ready starter templates showcasing my expertise across modern framewo
 
 ## Get In Touch
 
-- **Website** — [faizkhairi.my](https://faizkhairi.my)
+- **Website** — [faizkhairi.github.io](https://faizkhairi.github.io)
 - **LinkedIn** — [linkedin.com/in/faizkhairi](https://www.linkedin.com/in/faizkhairi/)
 - **Email** — ifaizkhairi@gmail.com
