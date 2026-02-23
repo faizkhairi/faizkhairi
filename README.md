@@ -35,6 +35,20 @@ Currently building enterprise software at scale:
 | [Short URL](https://github.com/faizkhairi/short-url) | URL shortener with click analytics dashboard | Next.js, Prisma 7, Neon PostgreSQL, Recharts | [Live](https://short-url-livid-six.vercel.app) |
 | [Repo Insights](https://github.com/faizkhairi/repo-insights) | GitHub repo visualization — commits, languages, contributors | Next.js, SWR, Recharts, Auth.js | [Live](https://repo-insights-mu.vercel.app) |
 | [Recipe Explorer](https://github.com/faizkhairi/recipe-explorer) | Recipe browsing with search and favorites | Next.js, React Query, Tailwind CSS | [Live](https://recipe-explorer-five.vercel.app) |
+| [dev-dashboard](https://github.com/faizkhairi/dev-dashboard) | GitHub activity, npm analytics & Vercel status in one dark-mode dashboard | Nuxt 3, ApexCharts, Pinia, GitHub GraphQL | [Live](https://dev-dashboard-weld.vercel.app) |
+
+### Mobile Applications
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| [dev-companion](https://github.com/faizkhairi/dev-companion) | 100% offline developer toolkit — HTTP client, JSON tools, encoding, hashing, regex, timestamps | Expo, React Native, NativeWind, Zustand | [GitHub](https://github.com/faizkhairi/dev-companion) |
+
+### npm Libraries
+
+| Library | Description | Install |
+|---------|-------------|---------|
+| [fetch-backoff](https://github.com/faizkhairi/fetch-backoff) | Zero-dependency fetch wrapper with retry, exponential backoff, jitter and 202-polling | `npm install fetch-backoff` |
+| [flatfile-js](https://github.com/faizkhairi/flatfile-js) | Zero-dependency schema-first flat file parser/generator for pipe/comma/tab-delimited formats | `npm install @faizkhairi/flatfile-js` |
 
 ### Developer Tools (CLI)
 
