@@ -31,6 +31,7 @@ Currently building enterprise software at scale:
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
+| [ApprovalKit](https://github.com/faizkhairi/approvalworkflow) | Multi-step approval workflows — configurable steps, ANY/ALL modes, append-only audit logs | Next.js 16, Prisma 7, NextAuth v5, Neon, QStash | — |
 | [AI Code Reviewer](https://github.com/faizkhairi/ai-code-reviewer) | Multi-provider AI code review with streaming output | Next.js, Vercel AI SDK, OpenAI, Claude | [Live](https://ai-code-reviewer-two-pi.vercel.app) |
 | [Short URL](https://github.com/faizkhairi/short-url) | URL shortener with click analytics dashboard | Next.js, Prisma 7, Neon PostgreSQL, Recharts | [Live](https://short-url-livid-six.vercel.app) |
 | [Repo Insights](https://github.com/faizkhairi/repo-insights) | GitHub repo visualization — commits, languages, contributors | Next.js, SWR, Recharts, Auth.js | [Live](https://repo-insights-mu.vercel.app) |
