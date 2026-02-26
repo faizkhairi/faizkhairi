@@ -57,7 +57,7 @@ Currently building enterprise software at scale:
 
 | Library | Description | Install |
 |---------|-------------|---------|
-| [file2md](https://github.com/faizkhairi/file2md) | PDF/DOCX to clean, grep-friendly Markdown — CLI, drag-and-drop web UI, table extraction, paragraph reflow | `pip install file2md` |
+| [file2md](https://github.com/faizkhairi/file2md) | PDF/DOCX to clean, grep-friendly Markdown — CLI, drag-and-drop web UI, table extraction, paragraph reflow | `pip install file2md` | [Live](https://file2md.onrender.com) |
 
 ### Developer Tools (CLI)
 
