@@ -21,6 +21,7 @@ Currently building enterprise software at scale:
 | **Mobile** | React Native (Expo), NativeWind |
 | **Backend** | NestJS, Laravel (PHP), Spring Boot (Java), Node.js |
 | **Database** | PostgreSQL, MySQL/MariaDB, Prisma ORM, JPA/Hibernate, Flyway |
+| **Python** | FastAPI, PyMuPDF, Click, pytest, mypy, Ruff |
 | **AI** | OpenAI GPT-4o, Claude Sonnet, Vercel AI SDK |
 | **Cloud & DevOps** | AWS (EC2, ECR, S3), Docker, Nginx, GitHub Actions |
 | **Testing** | Vitest, Playwright, JUnit 5, PHPUnit, Jest |
@@ -51,6 +52,12 @@ Currently building enterprise software at scale:
 |---------|-------------|---------|
 | [fetch-backoff](https://github.com/faizkhairi/fetch-backoff) | Zero-dependency fetch wrapper with retry, exponential backoff, jitter and 202-polling | `npm install fetch-backoff` |
 | [flatfile-js](https://github.com/faizkhairi/flatfile-js) | Zero-dependency schema-first flat file parser/generator for pipe/comma/tab-delimited formats | `npm install @faizkhairi/flatfile-js` |
+
+### PyPI Packages
+
+| Library | Description | Install |
+|---------|-------------|---------|
+| [file2md](https://github.com/faizkhairi/file2md) | PDF/DOCX to clean, grep-friendly Markdown — CLI, drag-and-drop web UI, table extraction, paragraph reflow | `pip install file2md` |
 
 ### Developer Tools (CLI)
 
