@@ -55,9 +55,9 @@ Currently building enterprise software at scale:
 
 ### PyPI Packages
 
-| Library | Description | Install |
-|---------|-------------|---------|
-| [file2md](https://github.com/faizkhairi/file2md) | PDF/DOCX to clean, grep-friendly Markdown — CLI, drag-and-drop web UI, table extraction, paragraph reflow | `pip install file2md` | [Live](https://file2md.onrender.com) |
+| Library | Description | Install | Live |
+|---------|-------------|---------|------|
+| [file2md](https://github.com/faizkhairi/file2md) | PDF/DOCX to clean Markdown — CLI, batch mode, drag-and-drop web UI, table extraction, paragraph reflow, image placeholders, DOCX TOC detection | `pip install file2md` | [UI](https://file2md.onrender.com) |
 
 ### Developer Tools (CLI)
 
