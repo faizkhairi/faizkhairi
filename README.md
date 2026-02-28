@@ -44,27 +44,17 @@ Currently building enterprise software at scale:
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| [dev-companion](https://github.com/faizkhairi/dev-companion) | 100% offline developer toolkit — HTTP client, JSON tools, encoding, hashing, regex, timestamps | Expo, React Native, NativeWind, Zustand | [GitHub](https://github.com/faizkhairi/dev-companion) |
+| [dev-companion](https://github.com/faizkhairi/dev-companion) | 100% offline developer toolkit — HTTP client, JSON tools, encoding, hashing, regex, timestamps | Expo, React Native, NativeWind, Zustand | — |
 
-### npm Libraries
+### Published Packages & Tools
 
-| Library | Description | Install |
-|---------|-------------|---------|
-| [fetch-backoff](https://github.com/faizkhairi/fetch-backoff) | Zero-dependency fetch wrapper with retry, exponential backoff, jitter and 202-polling | `npm install fetch-backoff` |
-| [flatfile-js](https://github.com/faizkhairi/flatfile-js) | Zero-dependency schema-first flat file parser/generator for pipe/comma/tab-delimited formats | `npm install @faizkhairi/flatfile-js` |
-
-### PyPI Packages
-
-| Library | Description | Install | Live |
-|---------|-------------|---------|------|
-| [file2md](https://github.com/faizkhairi/file2md) | PDF/DOCX to clean Markdown — CLI, batch mode, drag-and-drop web UI, table extraction, paragraph reflow, image placeholders, DOCX TOC detection | `pip install file2md` | [UI](https://file2md.onrender.com) |
-
-### Developer Tools (CLI)
-
-| Tool | Description | Install |
-|------|-------------|---------|
-| [loadtest-cli](https://github.com/faizkhairi/loadtest-cli) | API load testing with latency percentiles and HTML reports | `npm i -g @faizkhairi/loadtest-cli` |
-| [migra-cli](https://github.com/faizkhairi/migra-cli) | Database migration management with rollback and safety checks | `npm i -g @faizkhairi/migra-cli` |
+| Package | Type | Description | Install | Link |
+|---------|------|-------------|---------|------|
+| [fetch-backoff](https://github.com/faizkhairi/fetch-backoff) | npm | Zero-dependency fetch wrapper with retry, exponential backoff, jitter and 202-polling | `npm install fetch-backoff` | [npm](https://www.npmjs.com/package/fetch-backoff) |
+| [flatfile-js](https://github.com/faizkhairi/flatfile-js) | npm | Zero-dependency schema-first flat file parser/generator for pipe/comma/tab-delimited formats | `npm install @faizkhairi/flatfile-js` | [npm](https://www.npmjs.com/package/@faizkhairi/flatfile-js) |
+| [file2md](https://github.com/faizkhairi/file2md) | PyPI | PDF/DOCX to clean Markdown — CLI, batch mode, drag-and-drop web UI, table extraction, paragraph reflow, image placeholders, DOCX TOC detection | `pip install file2md` | [Live](https://file2md.onrender.com) |
+| [loadtest-cli](https://github.com/faizkhairi/loadtest-cli) | npm CLI | API load testing with latency percentiles and HTML reports | `npm i -g @faizkhairi/loadtest-cli` | [npm](https://www.npmjs.com/package/@faizkhairi/loadtest-cli) |
+| [migra-cli](https://github.com/faizkhairi/migra-cli) | npm CLI | Database migration management with rollback and safety checks | `npm i -g @faizkhairi/migra-cli` | [npm](https://www.npmjs.com/package/@faizkhairi/migra-cli) |
 
 ### Personal Boilerplates
 
