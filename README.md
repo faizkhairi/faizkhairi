@@ -78,6 +78,17 @@ Production-ready starter templates showcasing my expertise across modern framewo
 |---------|-------------|
 | [microservices-demo](https://github.com/faizkhairi/microservices-demo) | Production-grade 7-service platform -- Nuxt 4 + NestJS, Docker Compose, enterprise architecture patterns |
 
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=faizkhairi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizkhairi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=faizkhairi&theme=github-dark-blue&hide_border=true" />
+</p>
+
 ## Get In Touch
 
 - **Website** — [faizkhairi.github.io](https://faizkhairi.github.io)
