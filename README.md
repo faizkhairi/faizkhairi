@@ -59,6 +59,7 @@ Currently building enterprise software at scale:
 | [file2md](https://github.com/faizkhairi/file2md) | PyPI | PDF/DOCX to clean Markdown — CLI, batch mode, drag-and-drop web UI, table extraction, paragraph reflow, image placeholders, DOCX TOC detection | `pip install file2md` | [Live](https://file2md.onrender.com) |
 | [loadtest-cli](https://github.com/faizkhairi/loadtest-cli) | npm CLI | API load testing with latency percentiles and HTML reports | `npm i -g @faizkhairi/loadtest-cli` | [npm](https://www.npmjs.com/package/@faizkhairi/loadtest-cli) |
 | [migra-cli](https://github.com/faizkhairi/migra-cli) | npm CLI | Database migration management with rollback and safety checks | `npm i -g @faizkhairi/migra-cli` | [npm](https://www.npmjs.com/package/@faizkhairi/migra-cli) |
+| [envguard](https://github.com/faizkhairi/envguard) | npm CLI | Audit env vars -- find missing, unused, undocumented, and empty variables | `npm i -g @faizkhairi/envguard` | [npm](https://www.npmjs.com/package/@faizkhairi/envguard) |
 | [loadtest-action](https://github.com/faizkhairi/loadtest-action) | GitHub Action | HTTP load tests in CI with PR comment integration | `faizkhairi/loadtest-action@v1` | [Marketplace](https://github.com/marketplace/actions/loadtest-action) |
 
 ### Personal Boilerplates
