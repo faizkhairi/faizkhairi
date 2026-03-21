@@ -15,9 +15,7 @@ Currently building enterprise software at scale:
 
 ## Open Source
 
-| Project | Contribution | Stars |
-|---------|-------------|-------|
-| [Project-AI-MemoryCore](https://github.com/Kiyoraka/Project-AI-MemoryCore) | First external contributor -- cross-platform time detection, Reminders System, Decision Log System | 188+ |
+- [Project-AI-MemoryCore](https://github.com/Kiyoraka/Project-AI-MemoryCore) -- cross-platform time detection, reminders, decision log
 
 ## Tech Stack
 
