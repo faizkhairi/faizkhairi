@@ -13,6 +13,12 @@ Currently building enterprise software at scale:
 - **Multi-step workflow system** — Dynamic workflow engines with token passing and state management
 - **DevOps infrastructure** — Multi-environment CI/CD pipelines (DEV/STG/PRD) on AWS with Docker
 
+## Open Source
+
+| Project | Contribution | Stars |
+|---------|-------------|-------|
+| [Project-AI-MemoryCore](https://github.com/Kiyoraka/Project-AI-MemoryCore) | First external contributor -- cross-platform time detection, Reminders System, Decision Log System | 188+ |
+
 ## Tech Stack
 
 | Layer | Technologies |
@@ -72,7 +78,7 @@ Production-ready starter templates showcasing my expertise across modern framewo
 
 | Project | Description |
 |---------|-------------|
-| [microservices-demo](https://github.com/faizkhairi/microservices-demo) | Docker Compose microservices architecture |
+| [microservices-demo](https://github.com/faizkhairi/microservices-demo) | Production-grade 7-service platform -- Nuxt 4 + NestJS, Docker Compose, enterprise architecture patterns |
 
 ## Get In Touch
 
