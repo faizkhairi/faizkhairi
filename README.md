@@ -17,6 +17,7 @@ Currently building enterprise software at scale:
 
 | Project | Contribution |
 |---------|-------------|
+| [physical-ai-toolchain](https://github.com/microsoft/physical-ai-toolchain) | Vitest coverage integration with Codecov configuration ([#345](https://github.com/microsoft/physical-ai-toolchain/pull/345)) |
 | [servercn](https://github.com/AkkalDhami/servercn) | Prisma MySQL starter foundation + Express TypeScript starter ([#56](https://github.com/AkkalDhami/servercn/pull/56)) |
 | [Project-AI-MemoryCore](https://github.com/Kiyoraka/Project-AI-MemoryCore) | Cross-platform time detection, reminders system, decision log ([#3](https://github.com/Kiyoraka/Project-AI-MemoryCore/pull/3), [#4](https://github.com/Kiyoraka/Project-AI-MemoryCore/pull/4)) |
 
