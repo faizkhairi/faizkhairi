@@ -17,6 +17,7 @@ Currently building enterprise software at scale:
 
 | Project | Contribution |
 |---------|-------------|
+| [sedekah-je](https://github.com/khrnchn/sedekah-je) | Server-side QR extraction for institution submissions -- shared utility, admin DRY, grayscale fix ([#560](https://github.com/khrnchn/sedekah-je/pull/560)) |
 | [wagmi](https://github.com/wevm/wagmi) | Fix Nuxt ESM compatibility -- add eventemitter3 to optimizeDeps ([#5028](https://github.com/wevm/wagmi/pull/5028)) |
 | [physical-ai-toolchain](https://github.com/microsoft/physical-ai-toolchain) | Vitest coverage integration with Codecov configuration ([#345](https://github.com/microsoft/physical-ai-toolchain/pull/345)) |
 | [servercn](https://github.com/AkkalDhami/servercn) | Prisma MySQL starter foundation + Express TypeScript starter ([#56](https://github.com/AkkalDhami/servercn/pull/56)) |
