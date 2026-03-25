@@ -32,7 +32,7 @@ Currently building enterprise software at scale:
 | **Backend** | NestJS, Laravel (PHP), Spring Boot (Java), Node.js |
 | **Database** | PostgreSQL, MySQL/MariaDB, Prisma ORM, JPA/Hibernate, Flyway |
 | **Python** | FastAPI, PyMuPDF, Click, pytest, mypy, Ruff |
-| **AI** | OpenAI GPT-4o, Claude Sonnet, Vercel AI SDK |
+| **AI** | OpenAI GPT-4o, Claude Code, Vercel AI SDK |
 | **Cloud & DevOps** | AWS (EC2, ECR, S3), Docker, Nginx, GitHub Actions |
 | **Testing** | Vitest, Playwright, JUnit 5, PHPUnit, Jest |
 
@@ -67,6 +67,12 @@ Currently building enterprise software at scale:
 | [migra-cli](https://github.com/faizkhairi/migra-cli) | npm CLI | Database migration management with rollback and safety checks | `npm i -g @faizkhairi/migra-cli` | [npm](https://www.npmjs.com/package/@faizkhairi/migra-cli) |
 | [envguard](https://github.com/faizkhairi/envguard) | npm CLI | Audit env vars -- find missing, unused, undocumented, and empty variables | `npm i -g @faizkhairi/envguard` | [npm](https://www.npmjs.com/package/@faizkhairi/envguard) |
 | [loadtest-action](https://github.com/faizkhairi/loadtest-action) | GitHub Action | HTTP load tests in CI with PR comment integration | `faizkhairi/loadtest-action@v1` | [Marketplace](https://github.com/marketplace/actions/loadtest-action) |
+
+### Developer Tooling
+
+| Project | Description |
+|---------|-------------|
+| [claude-code-blueprint](https://github.com/faizkhairi/claude-code-blueprint) | Reference architecture for Claude Code — 11 agents, 17 skills, 10 hooks, 5 rules, memory system template, cross-tool guide for Cursor/Codex/Gemini/Windsurf |
 
 ### Personal Boilerplates
 
