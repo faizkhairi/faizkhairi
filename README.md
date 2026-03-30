@@ -19,6 +19,7 @@ Currently building enterprise software at scale:
 |---------|-------------|
 | [dify](https://github.com/langgenius/dify) | Replace dict with Pydantic `BedrockRetrievalSetting` BaseModel ([#34080](https://github.com/langgenius/dify/pull/34080)) |
 | [biome](https://github.com/biomejs/biome) | Port `useAriaActivedescendantWithTabindex` a11y rule from JSX to HTML ([#9617](https://github.com/biomejs/biome/pull/9617)) |
+| [biome](https://github.com/biomejs/biome) | Implement `useHeadingContent` a11y rule for HTML -- heading content, aria-hidden traversal, cross-framework PascalCase component detection ([#9716](https://github.com/biomejs/biome/pull/9716)) |
 | [physical-ai-toolchain](https://github.com/microsoft/physical-ai-toolchain) **(Microsoft)** | Vitest coverage integration with Codecov configuration ([#345](https://github.com/microsoft/physical-ai-toolchain/pull/345)) |
 | [wagmi](https://github.com/wevm/wagmi) | Fix Nuxt ESM compatibility -- add eventemitter3 to optimizeDeps ([#5028](https://github.com/wevm/wagmi/pull/5028)) |
 | [sedekah-je](https://github.com/khrnchn/sedekah-je) | Server-side QR extraction for institution submissions -- shared utility, admin DRY, grayscale fix ([#560](https://github.com/khrnchn/sedekah-je/pull/560)) |
