@@ -15,20 +15,26 @@ Currently building enterprise software at scale:
 
 ## Open Source Contributions
 
+**13 merged pull requests across 10 open-source repositories** (upstream, accepted by maintainers).
+
 | Project | Contribution |
 |---------|-------------|
-| [dify](https://github.com/langgenius/dify) | Replace dict with Pydantic `BedrockRetrievalSetting` BaseModel ([#34080](https://github.com/langgenius/dify/pull/34080)) |
+| [nuxt/ui](https://github.com/nuxt/ui) | Forward `$attrs` to root element when `to` prop is absent ([#6628](https://github.com/nuxt/ui/pull/6628)) |
+| [nuxt/ui](https://github.com/nuxt/ui) | Allow auto focus in menu for proper focus trapping ([#6266](https://github.com/nuxt/ui/pull/6266)) |
+| [biome](https://github.com/biomejs/biome) | Port `useHeadingContent` a11y rule to HTML — heading content, aria-hidden traversal ([#9716](https://github.com/biomejs/biome/pull/9716)) |
 | [biome](https://github.com/biomejs/biome) | Port `useAriaActivedescendantWithTabindex` a11y rule from JSX to HTML ([#9617](https://github.com/biomejs/biome/pull/9617)) |
-| [biome](https://github.com/biomejs/biome) | Implement `useHeadingContent` a11y rule for HTML -- heading content, aria-hidden traversal, cross-framework PascalCase component detection ([#9716](https://github.com/biomejs/biome/pull/9716)) |
 | [physical-ai-toolchain](https://github.com/microsoft/physical-ai-toolchain) **(Microsoft)** | Vitest coverage integration with Codecov configuration ([#345](https://github.com/microsoft/physical-ai-toolchain/pull/345)) |
-| [wagmi](https://github.com/wevm/wagmi) | Fix Nuxt ESM compatibility -- add eventemitter3 to optimizeDeps ([#5028](https://github.com/wevm/wagmi/pull/5028)) |
-| [sedekah-je](https://github.com/khrnchn/sedekah-je) | Server-side QR extraction for institution submissions -- shared utility, admin DRY, grayscale fix ([#560](https://github.com/khrnchn/sedekah-je/pull/560)) |
+| [dify](https://github.com/langgenius/dify) | Replace dict with Pydantic `BedrockRetrievalSetting` BaseModel ([#34080](https://github.com/langgenius/dify/pull/34080)) |
+| [directus](https://github.com/directus/directus) | Show actual error reason on invite acceptance page ([#26971](https://github.com/directus/directus/pull/26971)) |
+| [wagmi](https://github.com/wevm/wagmi) | Fix Nuxt ESM compatibility — add eventemitter3 to optimizeDeps ([#5028](https://github.com/wevm/wagmi/pull/5028)) |
+| [nusmods](https://github.com/nusmodifications/nusmods) | Add pnpm install and build commands to vercel.json ([#4375](https://github.com/nusmodifications/nusmods/pull/4375)) |
+| [sedekah-je](https://github.com/khrnchn/sedekah-je) | Server-side QR extraction for institution submissions ([#560](https://github.com/khrnchn/sedekah-je/pull/560)) |
 | [servercn](https://github.com/AkkalDhami/servercn) | Prisma MySQL starter foundation + Express TypeScript starter ([#56](https://github.com/AkkalDhami/servercn/pull/56)) |
-| [Project-AI-MemoryCore](https://github.com/Kiyoraka/Project-AI-MemoryCore) | Cross-platform time detection, reminders system, decision log ([#3](https://github.com/Kiyoraka/Project-AI-MemoryCore/pull/3), [#4](https://github.com/Kiyoraka/Project-AI-MemoryCore/pull/4)) |
+| [Project-AI-MemoryCore](https://github.com/Kiyoraka/Project-AI-MemoryCore) | Cross-platform time detection ([#3](https://github.com/Kiyoraka/Project-AI-MemoryCore/pull/3)), reminders + decision log ([#4](https://github.com/Kiyoraka/Project-AI-MemoryCore/pull/4)) |
 
 ## Developer Tooling
 
-**[Claude Code Blueprint](https://github.com/faizkhairi/claude-code-blueprint)** - A battle-tested, framework-agnostic reference architecture for Claude Code. 11 agents, 17 skills, 10 hooks, 5 rules. Not a plugin to install - a blueprint to learn from and adapt.
+**[Claude Code Blueprint](https://github.com/faizkhairi/claude-code-blueprint)** — Framework-agnostic reference architecture for Claude Code. **36 stars**, 14 forks, featured in [Awesome Claude Code Toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) (2,189 stars). 11 agents, 17 skills, 10 hooks, 5 rules — a blueprint to learn from and adapt.
 
 ## Tech Stack
 
