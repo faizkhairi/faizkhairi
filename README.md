@@ -1,17 +1,8 @@
 # Hey, I'm Faiz
 
-**Full-Stack Software Engineer** based in Kuala Lumpur, Malaysia.
+**Senior Software Engineer | Full Stack** based in Kuala Lumpur, Malaysia.
 
 I build scalable web and mobile applications - from frontend UI to backend systems, enterprise integrations, and cloud infrastructure.
-
-## What I Work On
-
-Currently building enterprise software at scale:
-
-- **Microservices platform** - 7-service architecture handling 500+ pages, 130+ API modules, and 300+ database models
-- **Enterprise integration hub** - Plugin-based platform connecting 9 external systems across 49 integration types
-- **Multi-step workflow system** - Dynamic workflow engines with token passing and state management
-- **DevOps infrastructure** - Multi-environment CI/CD pipelines (DEV/STG/PRD) on AWS with Docker
 
 ## Open Source Contributions
 
@@ -21,12 +12,12 @@ Currently building enterprise software at scale:
 |---------|-------------|
 | [nuxt/ui](https://github.com/nuxt/ui) | Forward `$attrs` to root element when `to` prop is absent ([#6628](https://github.com/nuxt/ui/pull/6628)) |
 | [nuxt/ui](https://github.com/nuxt/ui) | Allow auto focus in menu for proper focus trapping ([#6266](https://github.com/nuxt/ui/pull/6266)) |
-| [biome](https://github.com/biomejs/biome) | Port `useHeadingContent` a11y rule to HTML — heading content, aria-hidden traversal ([#9716](https://github.com/biomejs/biome/pull/9716)) |
+| [biome](https://github.com/biomejs/biome) | Port `useHeadingContent` a11y rule to HTML: heading content, aria-hidden traversal ([#9716](https://github.com/biomejs/biome/pull/9716)) |
 | [biome](https://github.com/biomejs/biome) | Port `useAriaActivedescendantWithTabindex` a11y rule from JSX to HTML ([#9617](https://github.com/biomejs/biome/pull/9617)) |
 | [physical-ai-toolchain](https://github.com/microsoft/physical-ai-toolchain) **(Microsoft)** | Vitest coverage integration with Codecov configuration ([#345](https://github.com/microsoft/physical-ai-toolchain/pull/345)) |
 | [dify](https://github.com/langgenius/dify) | Replace dict with Pydantic `BedrockRetrievalSetting` BaseModel ([#34080](https://github.com/langgenius/dify/pull/34080)) |
 | [directus](https://github.com/directus/directus) | Show actual error reason on invite acceptance page ([#26971](https://github.com/directus/directus/pull/26971)) |
-| [wagmi](https://github.com/wevm/wagmi) | Fix Nuxt ESM compatibility — add eventemitter3 to optimizeDeps ([#5028](https://github.com/wevm/wagmi/pull/5028)) |
+| [wagmi](https://github.com/wevm/wagmi) | Fix Nuxt ESM compatibility: add eventemitter3 to optimizeDeps ([#5028](https://github.com/wevm/wagmi/pull/5028)) |
 | [nusmods](https://github.com/nusmodifications/nusmods) | Add pnpm install and build commands to vercel.json ([#4375](https://github.com/nusmodifications/nusmods/pull/4375)) |
 | [sedekah-je](https://github.com/khrnchn/sedekah-je) | Server-side QR extraction for institution submissions ([#560](https://github.com/khrnchn/sedekah-je/pull/560)) |
 | [servercn](https://github.com/AkkalDhami/servercn) | Prisma MySQL starter foundation + Express TypeScript starter ([#56](https://github.com/AkkalDhami/servercn/pull/56)) |
@@ -34,7 +25,16 @@ Currently building enterprise software at scale:
 
 ## Developer Tooling
 
-**[Claude Code Blueprint](https://github.com/faizkhairi/claude-code-blueprint)** — Framework-agnostic reference architecture for Claude Code. **36 stars**, 14 forks, featured in [Awesome Claude Code Toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) (2,189 stars). 11 agents, 17 skills, 10 hooks, 5 rules — a blueprint to learn from and adapt.
+**[Claude Code Blueprint](https://github.com/faizkhairi/claude-code-blueprint)** is a framework-agnostic reference architecture for Claude Code. **71 stars**, 21 forks, featured in [Awesome Claude Code Toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) (2,600+ stars). 12 agents, 19 skills, 15 hooks, 6 rules. A blueprint to learn from and adapt.
+
+## What I Work On
+
+At my current role (private repos, so not visible on this profile):
+
+- **Multi-service platform** - 500+ pages, 200+ API controllers, and 300+ database models
+- **Enterprise integration hub** - Plugin-based platform connecting multiple external systems
+- **Multi-step workflow system** - Dynamic workflow engines with token passing and state management
+- **DevOps infrastructure** - Multi-environment CI/CD (sole deployer) on AWS (EC2, ECR, S3) with Docker
 
 ## Tech Stack
 
@@ -73,21 +73,21 @@ Currently building enterprise software at scale:
 
 | Package | Type | Description | Install | Link |
 |---------|------|-------------|---------|------|
-| [fetch-backoff](https://github.com/faizkhairi/fetch-backoff) | npm | Zero-dependency fetch wrapper with retry, exponential backoff, jitter and 202-polling | `npm install fetch-backoff` | [npm](https://www.npmjs.com/package/fetch-backoff) |
+| [fetch-backoff](https://github.com/faizkhairi/fetch-backoff) | npm | Zero-dependency fetch wrapper with idempotency-aware retry, exponential backoff, jitter and 202-polling | `npm install fetch-backoff` | [npm](https://www.npmjs.com/package/fetch-backoff) |
 | [flatfile-js](https://github.com/faizkhairi/flatfile-js) | npm | Zero-dependency schema-first flat file parser/generator for pipe/comma/tab-delimited formats | `npm install @faizkhairi/flatfile-js` | [npm](https://www.npmjs.com/package/@faizkhairi/flatfile-js) |
 | [file2md](https://github.com/faizkhairi/file2md) | PyPI | PDF/DOCX to clean Markdown - CLI, batch mode, drag-and-drop web UI, table extraction, paragraph reflow, image placeholders, DOCX TOC detection | `pip install file2md` | [Live](https://file2md.onrender.com) |
 | [loadtest-cli](https://github.com/faizkhairi/loadtest-cli) | npm CLI | API load testing with latency percentiles and HTML reports | `npm i -g @faizkhairi/loadtest-cli` | [npm](https://www.npmjs.com/package/@faizkhairi/loadtest-cli) |
-| [migra-cli](https://github.com/faizkhairi/migra-cli) | npm CLI | Database migration management with rollback and safety checks | `npm i -g @faizkhairi/migra-cli` | [npm](https://www.npmjs.com/package/@faizkhairi/migra-cli) |
-| [envguard](https://github.com/faizkhairi/envguard) | npm CLI | Audit env vars -- find missing, unused, undocumented, and empty variables | `npm i -g @faizkhairi/envguard` | [npm](https://www.npmjs.com/package/@faizkhairi/envguard) |
-| [loadtest-action](https://github.com/faizkhairi/loadtest-action) | GitHub Action | HTTP load tests in CI with PR comment integration | `faizkhairi/loadtest-action@v1` | [Marketplace](https://github.com/marketplace/actions/loadtest-action) |
+| [migra-cli](https://github.com/faizkhairi/migra-cli) | npm CLI | Database migrations with per-migration transactions, rollback and a destructive-statement gate | `npm i -g @faizkhairi/migra-cli` | [npm](https://www.npmjs.com/package/@faizkhairi/migra-cli) |
+| [envguard](https://github.com/faizkhairi/envguard) | npm CLI | Audit env vars: find missing, unused, undocumented, and empty variables | `npm i -g @faizkhairi/envguard` | [npm](https://www.npmjs.com/package/@faizkhairi/envguard) |
+| [loadtest-action](https://github.com/faizkhairi/loadtest-action) | GitHub Action | HTTP load tests in CI with PR comment integration | `faizkhairi/loadtest-action@v1` | [Repo](https://github.com/faizkhairi/loadtest-action) |
 
 ### Personal Boilerplates
 
-Production-ready starter templates showcasing my expertise across modern frameworks and full-stack architectures.
+Starter templates I use to bootstrap new projects. Each one is a starting point, not a finished product.
 
 | Template | Stack | Use Case |
 |----------|-------|----------|
-| [nuxt-boilerplate](https://github.com/faizkhairi/nuxt-boilerplate) | Nuxt 3 + Vue 3 + Prisma + Auth + Shadcn-vue | Vue SSR apps |
+| [nuxt-boilerplate](https://github.com/faizkhairi/nuxt-boilerplate) | Nuxt 3.11 + Vue 3 + Prisma + Auth + Shadcn-vue | Vue SSR apps |
 | [next-boilerplate](https://github.com/faizkhairi/next-boilerplate) | Next.js 15 + React + Prisma + NextAuth + Shadcn | React SSR apps |
 | [expo-boilerplate](https://github.com/faizkhairi/expo-boilerplate) | Expo + React Native + Zustand + NativeWind | Mobile apps |
 | [vue-springboot-boilerplate](https://github.com/faizkhairi/vue-springboot-boilerplate) | Spring Boot 3.3 + Vue 3 + JWT + OpenAPI | Enterprise apps |
@@ -97,7 +97,7 @@ Production-ready starter templates showcasing my expertise across modern framewo
 
 | Project | Description |
 |---------|-------------|
-| [microservices-demo](https://github.com/faizkhairi/microservices-demo) | Production-grade 7-service platform -- Nuxt 4 + NestJS, Docker Compose, enterprise architecture patterns |
+| [microservices-demo](https://github.com/faizkhairi/microservices-demo) | Reference 7-service platform: Nuxt 4 + NestJS, Docker Compose, enterprise architecture patterns |
 
 ## Get In Touch
 
