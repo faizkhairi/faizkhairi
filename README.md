@@ -51,6 +51,12 @@ At my current role (private repos, so not visible on this profile):
 
 ## Featured Projects
 
+### Distributed Systems
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| [consensus-lab](https://github.com/faizkhairi/consensus-lab) | Deterministic Raft simulator - live safety oracle, three injectable bugs, seeded fuzzer that shrinks counterexamples | TypeScript, React 19, Vite, Web Workers, fast-check | [Live](https://faizkhairi.github.io/consensus-lab/) |
+
 ### Web Applications
 
 | Project | Description | Stack | Link |
