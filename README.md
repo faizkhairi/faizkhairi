@@ -25,16 +25,16 @@ I build scalable web and mobile applications - from frontend UI to backend syste
 
 ## Developer Tooling
 
-**[Claude Code Blueprint](https://github.com/faizkhairi/claude-code-blueprint)** is a framework-agnostic reference architecture for Claude Code. **71 stars**, 21 forks, featured in [Awesome Claude Code Toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) (2,600+ stars). 12 agents, 19 skills, 15 hooks, 6 rules. A blueprint to learn from and adapt.
+**[Claude Code Blueprint](https://github.com/faizkhairi/claude-code-blueprint)** is a framework-agnostic reference architecture for Claude Code. **70+ stars**, 20+ forks, featured in [Awesome Claude Code Toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) (2,600+ stars). 12 agents, 19 skills, 15 hooks, 6 rules. A blueprint to learn from and adapt.
 
 ## What I Work On
 
 At my current role (private repos, so not visible on this profile):
 
-- **Multi-service platform** - 500+ pages, 200+ API controllers, and 300+ database models
+- **Multi-service platform** - 750+ pages, 260+ API controllers, and 400+ database models
 - **Enterprise integration hub** - Plugin-based platform connecting multiple external systems
 - **Multi-step workflow system** - Dynamic workflow engines with token passing and state management
-- **DevOps infrastructure** - Multi-environment CI/CD (sole deployer) on AWS (EC2, ECR, S3) with Docker
+- **DevOps infrastructure** - Multi-environment CI/CD for 13 services across 5 environments, with production AWS ECS Fargate stacks codified as CloudFormation
 
 ## Tech Stack
 
@@ -46,7 +46,7 @@ At my current role (private repos, so not visible on this profile):
 | **Database** | PostgreSQL, MySQL/MariaDB, Prisma ORM, JPA/Hibernate, Flyway |
 | **Python** | FastAPI, PyMuPDF, Click, pytest, mypy, Ruff |
 | **AI** | OpenAI GPT-4o, Claude Code, Vercel AI SDK |
-| **Cloud & DevOps** | AWS (EC2, ECR, S3), Docker, Nginx, GitHub Actions |
+| **Cloud & DevOps** | AWS (EC2, ECR, S3, ECS, CloudFormation), Docker, Nginx, GitHub Actions |
 | **Testing** | Vitest, Playwright, JUnit 5, PHPUnit, Jest |
 
 ## Featured Projects
