@@ -34,7 +34,7 @@ At my current role (private repos, so not visible on this profile):
 - **Multi-service platform** - 750+ pages, 260+ API controllers, and 400+ database models
 - **Enterprise integration hub** - Plugin-based platform connecting multiple external systems
 - **Multi-step workflow system** - Dynamic workflow engines with token passing and state management
-- **DevOps infrastructure** - Multi-environment CI/CD for 13 services across 5 environments, with production AWS ECS Fargate stacks codified as CloudFormation
+- **DevOps infrastructure** - Multi-environment CI/CD for 10 services across 5 environments, with production AWS ECS stacks (EC2 launch type) codified as CloudFormation
 
 ## Tech Stack
 
