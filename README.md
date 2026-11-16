@@ -1,8 +1,8 @@
 # Hey, I'm Faiz
 
-**Senior Software Engineer | Full Stack** based in Kuala Lumpur, Malaysia.
+**Full-Stack Software Engineer** based in Kuala Lumpur, Malaysia.
 
-I build scalable web and mobile applications - from frontend UI to backend systems, enterprise integrations, and cloud infrastructure.
+I build web and mobile applications end to end: frontend UI, backend systems, enterprise integrations, and the CI/CD and cloud infrastructure they run on.
 
 ## Open Source Contributions
 
