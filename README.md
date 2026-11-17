@@ -61,6 +61,7 @@ At my current role (private repos, so not visible on this profile):
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
+| [Interchange](https://github.com/faizkhairi/interchange-demo) | Integration platform and API gateway: per-system auth and rate limits, a Postgres job queue with retries and dead letters, alerting, a role-based admin console | Next.js 16, Drizzle, Neon, TypeScript, Zod v4 | [Live](https://interchange-livid.vercel.app/demo) |
 | [ApprovalKit](https://github.com/faizkhairi/approvalworkflow) | Multi-step approval workflows - configurable steps, ANY/ALL modes, append-only audit logs | Next.js 16, Prisma 7, NextAuth v5, Neon, QStash | - |
 | [Invoicify](https://github.com/faizkhairi/invoicify) | Invoice & billing for Malaysian freelancers - SSM/SST fields, partial payments, atomic invoice numbering, server-side PDF | Next.js 16, Prisma 7, NextAuth v5, React PDF, Neon | [Live](https://invoicify-chi.vercel.app) |
 | [AI Code Reviewer](https://github.com/faizkhairi/ai-code-reviewer) | Multi-provider AI code review + GitHub App bot that auto-reviews every PR | Next.js, GitHub App, QStash, Prisma 7, Vercel AI SDK | [Live](https://ai-code-reviewer-two-pi.vercel.app) |
